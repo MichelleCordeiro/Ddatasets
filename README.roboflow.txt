@@ -1,8 +1,8 @@
 
-Alphabet_card - v2 2024-05-03 1:46pm
+Alphabet_card - v3 2024-05-08 9:53pm
 ==============================
 
-This dataset was exported via roboflow.com on May 4, 2024 at 4:34 AM GMT
+This dataset was exported via roboflow.com on May 9, 2024 at 1:02 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 41 images.
+The dataset includes 131 images.
 Letters are annotated in YOLOv8 Oriented Object Detection format.
 
 The following pre-processing was applied to each image:

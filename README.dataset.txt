@@ -1,4 +1,4 @@
-# Alphabet_card > 2024-05-03 1:46pm
+# Alphabet_card > 2024-05-08 9:53pm
 https://universe.roboflow.com/letrascursivas/alphabet_card
 
 Provided by a Roboflow user
